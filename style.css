@@ -1,0 +1,28 @@
+* {
+  background-color: lightgrey;
+}
+
+.svetoforik {
+  border: 2px black solid;
+  width: 175px;
+}
+
+.svetoforik div {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+  border: 2px black solid;
+}
+
+.krasniy {
+  background-color: red;
+}
+
+.jeltiy {
+  background-color: yellow;
+}
+
+.zeleniy {
+  background-color: green;
+}
