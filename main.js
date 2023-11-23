@@ -11,3 +11,5 @@ const ti = { a, b };
 let arrey = (1, 2, 3);
 
 console.log(typeof arrey);
+
+console.log(arrey);
